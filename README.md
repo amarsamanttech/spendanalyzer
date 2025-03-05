@@ -39,8 +39,8 @@ Follow these steps to use the Spend Analyzer:
 1. **Explore with sample data**: The app includes pre-loaded sample data reflecting typical Indian spending (e.g., groceries, transportation, dining out). You can test the app’s features without uploading your own data.
 
 2. **Prepare your own data**: To analyze your personal expenses, create a CSV file with the following columns:
-   - `Date` (in `YYYY-MM-DD` format, e.g., `2023-10-15`)
-   - `Description` (text, e.g., "Big Bazaar", "Auto fare")
+   - `Date` (in `YYYY-MM-DD` format, e.g., `2025-02-15`)
+   - `Description` (text, e.g., "Dmart", "Auto fare")
    - `Category` (text, e.g., "Groceries", "Transportation")
    - `Amount` (numeric, e.g., `500`, `100`)
 

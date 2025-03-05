@@ -10,7 +10,7 @@ st.write("Analyze your spending habits and spot leaks—upload your data or use 
 data = pd.DataFrame({
     "Date": ["2025-02-01", "2025-02-02", "2025-02-03", "2025-02-04", "2025-02-05",
              "2025-02-06", "2025-02-07", "2025-02-08", "2025-02-09", "2025-02-10"],
-    "Description": ["DMart", "Auto fare", "Restaurant", "Electricity bill", "Movie ticket",
+    "Description": ["Dmart", "Auto fare", "Restaurant", "Electricity bill", "Movie ticket",
                     "Online shopping", "Groceries", "Taxi", "Dinner", "Phone bill"],
     "Category": ["Groceries", "Transportation", "Dining Out", "Utilities", "Entertainment",
                  "Shopping", "Groceries", "Transportation", "Dining Out", "Utilities"],
